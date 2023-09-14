@@ -16,5 +16,5 @@ int add(int, int);
 void print_to_98(int n);
 
 
-
+oid print_times_table(int n);
 #endif
